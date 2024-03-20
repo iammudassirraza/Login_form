@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    border: border-box;
+}
+.form{
+    height: 800px;
+    width: 100%;
+    background-color:#16a085;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.template{
+    height: 450px;
+    width: 28%;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+.login{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(57, 136, 110);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: bold;
+    padding-top: 40px;
+    color: white;
+}
+.email{
+    text-align: center;
+    margin-top: 20px;
+}
+.baby-email{
+    display: flex;
+    justify-content: center;
+
+}
+.phone{
+    width: 60%;
+}
+.first-button{
+    padding: 0px;
+    background-color: #0aa586;
+
+}
+button{
+    height: 45px;
+    width: 45px;
+    background-color: #41a894;
+
+}
+
+.second-button{
+    height: 45px;
+    width: 45px;
+
+
+}
+.pass{
+    margin-top: 15px;
+
+}
+.baby-pass{
+    display: flex;
+    justify-content: center;
+}
+.word{
+    width: 60%;
+}
+.for{
+    margin-top: 15px;
+    font-size: 1.2rem;
+    font-weight: 100;
+    display: block;
+    text-align: center;
+
+
+}
+.pas{
+    padding-bottom:10px;
+    padding-left: 57px;
+    font-size: 1.1rem;
+    text-align: left;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    
+
+}
+.btn{
+    height:50px;
+    width: 70%;
+    font-size: larger;
+    text-align: center;
+    margin-top: 25px;
+    background-color: #16a085;
+    color: white;
+    
+}
+.footer{
+    text-align: center;
+    font-size: 1.3rem;
+    margin-top: 20px;
+}
+.sign{
+    color: #0aa586;
+}
